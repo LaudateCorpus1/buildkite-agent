@@ -34,7 +34,7 @@ GEM
       stud
     insist (1.0.0)
     io-like (0.3.0)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     json (1.8.6)
     mustache (0.99.8)
     pleaserun (0.0.30)
